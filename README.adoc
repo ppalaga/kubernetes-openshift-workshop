@@ -1,0 +1,18 @@
+= Hands-on Kubernetes/OpenShift for Java developers
+
+The workshop has a few pre-requisites
+
+* Hypervisor:
+** KVM or VirtualBox on Linux
+** Hyper-V or VirtualBox on Windows
+** xhyve or VirtualBox on macOS)
+* `oc`, the OpenShift client tool:
+** Please download https://github.com/openshift/origin/releases[openshift-origin-client-tools] suitable for your platform and
+** Add the `oc` executable to your `PATH` environment variable
+* Minishift - please follow https://docs.openshift.org/latest/minishift/getting-started/installing.html[Installing Minishift]
+
+Please use https://github.com/ppalaga/kubernetes-openshift-workshop/issues[GitHub Issues] if you have questions or problems.
+
+Looking forward to meet you in the lab!
+
+https://twitter.com/ppalaga[@ppalaga] and https://twitter.com/marek_jelen[@marek_jelen]
